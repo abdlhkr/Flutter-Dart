@@ -79,3 +79,4 @@ class _User{
 }
 
 // şimdi mixin yapısı var mixin tam olmasada javadaki interface gibi
+
