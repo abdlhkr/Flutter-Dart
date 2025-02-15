@@ -10,7 +10,7 @@ void main(List<String> args) {
     // Null check operator used on a null value
     print(e);
   } */
- if(userName!.length > 20){
+ if(userName.length > 20){
   print("a");
  }else{
     throw userNameException();

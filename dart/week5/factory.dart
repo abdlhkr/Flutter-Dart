@@ -1,5 +1,3 @@
-import 'dart:nativewrappers';
-
 void main(List<String> args) {
   Singleton ali = Singleton();
   Singleton hamza = Singleton();
