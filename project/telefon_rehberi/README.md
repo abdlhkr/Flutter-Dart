@@ -1,3 +1,8 @@
-flutter ile ListView kullanarak bi rehber uygulaması arama ve mesaj kısmı şu an için çalışmıyor 
-<img src="https://github.com/user-attachments/assets/a093d809-31b8-4c79-ac9e-1fa2c7700b2d" width="800" />
+flutter ile ListView kullanarak bi rehber uygulaması arama ve mesaj kısmı şu an için çalışmıyor.
+
+
+
+
+<img src="https://github.com/user-attachments/assets/b11d8abd-bdf6-4577-82fb-fd64a2416367" width="900" />
+
 
